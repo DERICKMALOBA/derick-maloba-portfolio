@@ -1,4 +1,4 @@
-Portfolio Website - README
+#Portfolio Website - README
 
 📌 Overview
 This is a professional portfolio website for Derick Maloba, showcasing skills, projects, education, and contact information. Built with pure HTML and CSS (no frameworks), it features a responsive design that works across all device sizes.
