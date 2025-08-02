@@ -136,6 +136,9 @@ Clean, commented code
 v1.0 (Aug 2025): Initial release
 
 
+live link : https://derick-maloba-portfolio.vercel.app/
+
+
 
 📧 Contact
 For questions or feedback:
